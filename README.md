@@ -1,6 +1,6 @@
 # Bike Sharing Demand Analysis (Excel)
 
-**NextHikes IT Solutions · Project 1: Data Analysis with Excel**
+**NextHikes IT Solutions · Data Analysis with Excel**
 Author: Amita Yadav
 
 This project analyses how time of day, weekday, weather and holidays affect hourly bike rentals. Three raw datasets were cleaned, merged and appended in Excel, analysed with Excel functions, and presented in an interactive one-screen dashboard, with anomaly detection, a 48-hour forecast and VBA automation.
